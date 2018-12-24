@@ -13,5 +13,5 @@ yarn add global create-react-app
 ```
 1. .env 파일에 socket 서버 url을 입력해주세요
 2. yarn build
-3. build/static/css/chunk.css, build/static/js/chunk.js 추출
+3. build/static/css/chunk.css, build/static/js/chunk.js, build/static/js/main.js 추출
 ```
